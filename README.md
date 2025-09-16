@@ -17,19 +17,12 @@ Alongside my academic work, I’m gaining practical experience through projects 
 - Hands-on experience with packet analysis, error detection, and secure coding  
 
 **💻 Languages**  
-- **Python** — backend development (Flask), data analysis (pandas, NumPy), ML (scikit-learn)  
+- **Python** — backend development (Flask), data analysis (pandas, NumPy), ML (scikit-learn), testing (pytest & unittest)  
 - **Java** — OOP, encapsulation, polymorphism, interfaces, exception handling  
 - **JavaScript (ES6+)** — React Native (mobile), Next.js (web)  
 - **SQL** — relational database design, query optimisation, schema migrations  
 - **Bash** — shell scripting, automation, environment setup  
 - **HTML & CSS** — semantic markup, responsive layouts, accessibility awareness  
-
-**⚙️ Frameworks & Libraries**  
-- **Flask** — RESTful APIs, secure session handling, database integration  
-- **React Native (Expo)** — cross-platform mobile development  
-- **Next.js** — modern React framework for web apps  
-- **pandas & scikit-learn** — data analysis and ML pipelines  
-- **SQLAlchemy** — ORM for secure and maintainable database access  
 
 **🗄️ Databases**  
 - **PostgreSQL** — relational schema design, indexing, query optimisation  
@@ -40,7 +33,6 @@ Alongside my academic work, I’m gaining practical experience through projects 
 - **Docker** — containerisation for consistent environments  
 - **Railway** — backend deployment & scaling  
 - **Supabase** — database hosting, authentication, and API layer  
-- **CI/CD pipelines** — testing and automated deployment with GitHub Actions  
 
 **🛠️ Tools & Platforms**  
 - **Git & GitHub** — version control, branching strategies, team collaboration  
