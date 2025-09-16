@@ -11,9 +11,9 @@ Alongside my academic work, I’m gaining practical experience through projects 
 **🔐 Security & Networking**  
 - Network protocols (TCP/IP, IPv4, IPv6, DNS, DHCP, NAT, routing)  
 - TLS/SSL, hashing, and encryption fundamentals  
-- Authentication flows (JWT, OAuth2, Supabase Auth)  
+- Authentication flows (JWT, Supabase Auth)  
 - Role-Based Access Control (RLS with Supabase)  
-- Familiar with Wireshark, Burp Suite, and OWASP Top 10 security practices  
+- Familiar with Wireshark, Cisco Packet Tracer 
 - Hands-on experience with packet analysis, error detection, and secure coding  
 
 **💻 Languages**  
