@@ -2,7 +2,7 @@
 
 I’m a Master’s student in **Computer Science**, specialising in **Cybersecurity**. I’m currently studying for my **CompTIA Security+** exam, having recently passed the **CompTIA Network+** certification.  
 
-Alongside my academic work, I’m gaining practical experience through projects that combine **backend development, security principles, and scalable system design**. In my spare time, I enjoy golf and I’m engaged in a range of music activities including choirs and piano.  
+Alongside my academic work, I’m gaining practical experience through projects that combine **backend development, security principles, and scalable system design**. In my spare time, I enjoy golf and I’m engaged in a range of music activities including singing in choirs and playing piano.  
 
 ---
 
