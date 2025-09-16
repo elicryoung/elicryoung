@@ -81,7 +81,7 @@ A repository showcasing my **algorithm and problem-solving practice**.
 ---
 
 ## 🎯 Current Goals  
-- 🎓 Complete my Master’s with a **focus on Networks & Cybersecurity**  
+- 🎓 Complete my Master’s in Computer Science with a **focus on Networks & Cybersecurity**  
 - 🔐 Achieve **CompTIA Security+ certification**  
 - 🛡️ Deliver **3–4 cybersecurity-focused projects** as part of my portfolio  
 - 🎶 Launch **Ascala v1**, my music rating application  
