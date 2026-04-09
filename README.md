@@ -1,86 +1,83 @@
 # 👋 Hi, I'm Eli  
 
-I’m a Master’s student in **Computer Science**, specialising in **Cybersecurity**. I’m currently studying for my **CompTIA Security+** exam, having recently passed the **CompTIA Network+** certification.  
+I’m a Master’s graduate in **Computer Science**, specialising in **Cybersecurity**, having achieved a **First-Class Honours degree**. I have recently earned my **CompTIA Network+ certification** and I am currently preparing for the **CompTIA Security+** exam.  
 
-Alongside my academic work, I’m gaining practical experience through projects that combine **backend development, security principles, and scalable system design**. In my spare time, I enjoy golf and I’m engaged in a range of music activities including singing in choirs and playing piano.  
+My work focuses on building systems that integrate **secure backend development, networking principles, and scalable architecture**. I am actively developing projects that reflect real-world cybersecurity practices and modern application design.  
+
+Outside of tech, I enjoy golf and am actively involved in music, including singing in choirs and playing piano.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**🔐 Security & Networking**  
+### 🔐 Security & Networking  
 - Network protocols (TCP/IP, IPv4, IPv6, DNS, DHCP, NAT, routing)  
-- TLS/SSL, hashing, and encryption fundamentals  
-- Authentication flows (JWT, Supabase Auth)  
+- TLS/SSL, encryption, and hashing fundamentals  
+- Authentication systems (JWT, Supabase Auth)  
 - Role-Based Access Control (RLS with Supabase)  
-- Familiar with Wireshark, Cisco Packet Tracer 
-- Hands-on experience with packet analysis, error detection, and secure coding  
+- Tools: Wireshark, Cisco Packet Tracer  
+- Practical experience in packet analysis, debugging, and secure coding  
 
-**💻 Languages**  
-- **Python** — backend development (Flask), data analysis (pandas, NumPy), ML (scikit-learn), testing (pytest & unittest)  
-- **Java** — OOP, encapsulation, polymorphism, interfaces, exception handling  
-- **JavaScript (ES6+)** — React Native (mobile), Next.js (web)  
-- **SQL** — relational database design, query optimisation, schema migrations  
-- **Bash** — shell scripting, automation, environment setup  
-- **HTML & CSS** — semantic markup, responsive layouts, accessibility awareness  
+### 💻 Languages  
+- **Python** — backend development (Flask), data analysis (pandas, NumPy), ML (scikit-learn), testing (pytest, unittest)  
+- **Java** — object-oriented programming, interfaces, exception handling  
+- **JavaScript (ES6+)** — React Native, Next.js  
+- **SQL** — schema design, optimisation, migrations  
+- **Bash** — scripting and automation  
+- **HTML & CSS** — semantic, responsive, accessible design  
 
-**🗄️ Databases**  
-- **PostgreSQL** — relational schema design, indexing, query optimisation  
-- **Supabase** — managed PostgreSQL + Auth (secure login, RLS policies)  
-- Experience designing schemas for **production-ready apps** (Ascala, Restaurant Predictor)  
+### 🗄️ Databases  
+- **PostgreSQL** — relational design, indexing, performance tuning  
+- **Supabase** — managed PostgreSQL with authentication and API layer  
+- Experience designing schemas for **production-level applications**  
 
-**☁️ Cloud & DevOps**  
-- **Docker** — containerisation for consistent environments  
-- **Railway** — backend deployment & scaling  
-- **Supabase** — database hosting, authentication, and API layer  
+### ☁️ Cloud & DevOps  
+- **Docker** — containerisation  
+- **Railway** — backend deployment and scaling  
+- **Supabase** — hosting, authentication, backend services  
 
-**🛠️ Tools & Platforms**  
-- **Git & GitHub** — version control, branching strategies, team collaboration  
-- **Jupyter Notebooks** — prototyping, analysis, data visualisation  
-- **Figma** — design collaboration and wireframing  
-- **Pytest & unittest.mock** — unit and integration testing frameworks  
-- **IDE experience:** VS Code, IntelliJ, PyCharm  
+### 🛠️ Tools & Platforms  
+- **Git & GitHub** — version control and collaboration  
+- **Jupyter Notebooks** — data exploration and prototyping  
+- **Figma** — UI/UX design and wireframing  
+- **IDEs:** VS Code, IntelliJ, PyCharm  
 
 ---
 
-## 🌟 Featured Repositories  
+## 🌟 Featured Projects  
+
+### 🎶 Ascala (MVP in Progress)  
+A music rating and discovery platform currently under active development.  
+- Building a scalable backend with secure authentication and user management  
+- Designing database architecture for performance and flexibility  
+- Focused on delivering a clean MVP with strong foundations for future scaling  
+
+---
 
 ### 🍽️ Restaurant Busyness Predictor  
-A major group project where I acted as **Backend Lead**.  
-- Designed and implemented the **Flask backend** with secure, structured JSON APIs  
-- Built the database schema and models using SQLAlchemy  
-- Implemented error handling, input validation, and robust session management  
-- Optimised group recommendation queries, reducing response times from **137s → 1.6s**  
-- Managed integration between backend, ML models, and the frontend  
+Group project where I acted as **Backend Lead**.  
+- Designed and implemented a **Flask backend** with structured APIs  
+- Built and optimised database models using SQLAlchemy  
+- Reduced query response time from **137s → 1.6s**  
+- Integrated backend with ML models and frontend systems  
 
 ---
 
 ### 🚲 Dublin Bikes Availability  
-My **first CS project**, introducing me to backend engineering and data science.  
-- Developed a time series prediction model for Dublin bike availability  
-- Integrated live data from the **JCDecaux API** and combined it with weather data  
-- Deployed a Flask web app with interactive map visualisations  
-- Gave me my first experience in **API handling, deployment, and project delivery**  
+Early project focused on data engineering and backend systems.  
+- Built a time series prediction model for bike availability  
+- Integrated live data (JCDecaux API) with weather datasets  
+- Deployed a Flask app with interactive map visualisations  
 
 ---
 
-### 🧩 LeetCode Solutions  
-A repository showcasing my **algorithm and problem-solving practice**.  
-- Includes solutions to a wide range of LeetCode challenges  
-- Written in Python and Java, focusing on clarity and efficiency  
-- Documents my progress in data structures, algorithms, and coding interview prep  
-
----
-
-## 🎯 Current Goals  
-- 🎓 Complete my Master’s in Computer Science with a **focus on Networks & Cybersecurity**  
-- 🔐 Achieve **CompTIA Security+ certification**  
-- 🛡️ Deliver **3–4 cybersecurity-focused projects** as part of my portfolio  
-- 🎶 Launch **Ascala v1**, my music rating application  
-- ⚔️ Continue developing expertise in **network security, ethical hacking, and secure coding practices**  
+## 🎯 Current Focus  
+- 🔐 Preparing for **CompTIA Security+ certification**  
+- 🛡️ Building **cybersecurity-focused projects** for my portfolio  
+- 🎶 Developing and launching **Ascala MVP**  
+- 🌐 Deepening expertise in **network security, ethical hacking, and secure system design**  
 
 ---
 
 ## 📫 Connect With Me  
 - [LinkedIn](www.linkedin.com/in/-eliyoung)  
-- [LeetCode](https://leetcode.com/eliyoung)  
